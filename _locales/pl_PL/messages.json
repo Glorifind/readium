@@ -1,0 +1,165 @@
+{
+  "chrome_extension_name": {
+    "message": "Readium"
+  },
+  "chrome_extension_description": {
+    "message": "Czytnik publikacji EPUB3"
+  },
+  "i18n_readium_library" : {
+    "message" : "Biblioteka"
+  },
+  "i18n_loading" : {
+    "message" : "Ładuję Bibliotekę"
+  },
+  "i18n_readium_options" : {
+    "message" : "Opcje:"
+  },
+  "i18n_save_changes" : {
+    "message" : "Zapisz zmiany"
+  },
+  "i18n_close" : {
+    "message" : "Zamknij"
+  },
+  "i18n_paginate_all" : {
+    "message" : "Paginate all reflowable ePUB content"
+  },
+  "i18n_automatically" : {
+    "message" : "Automatycznie otwórz linki do *.epub w readium"
+  },
+  "i18n_show_warning" : {
+    "message" : "Pokaż ostrzeżenia przy dekompresji plików ePub"
+  },
+  "i18n_details" : {
+    "message" : "Szczegóły"
+  },
+  "i18n_read" : {
+    "message" : "Czytaj"
+  },
+  "i18n_delete" : {
+    "message" : "Usuń"
+  },
+  "i18n_author" : {
+    "message" : "Autor: "
+  },
+  "i18n_publisher" : {
+    "message" : "Wydawca: "
+  },
+  "i18n_source" : {
+    "message" : "Źródło: "
+  },
+  "i18n_pub_date" : {
+    "message" : "Data publikacji: "
+  },
+  "i18n_modified_date" : {
+    "message" : "Data modyfikacji: "
+  },
+  "i18n_id" : {
+    "message" : "ID: "
+  },
+  "i18n_epub_version" : {
+    "message" : "wersja ePub: "
+  },
+  "i18n_created_at" : {
+    "message" : "Utworzono w: "
+  },
+  "i18n_format" : {
+    "message" : "Format: "
+  },
+  "i18n_added" : {
+    "message" : "Dodano: "
+  },
+  "i18n_unknown" : {
+    "message" : "Nieznany"
+  },
+  "i18n_sorry" : {
+    "message" : "Przepraszamy, obecnie nie obsługujemy tego typu multimediów w formacie ePub"
+  },
+  "i18n_add_items" : {
+    "message" : "Dodaj publikacje do biblioteki</br>tutaj!"
+  },
+  "i18n_extracting" : {
+    "message" : "dekompresuję: "
+  },
+  "i18n_are_you_sure" : {
+    "message" : "Czy jesteś pewien, że chcesz na stałe usunąć  "
+  },
+  "i18n_add_book_to_readium_library" : {
+    "message" : "Dodaj publikacje do biblioteki:"
+  },
+  "i18n_add_book" : {
+    "message" : "Dodaj książkę"
+  },
+  "i18n_cancel" : {
+    "message" : "Anuluj"
+  },
+  "i18n_from_the_web" : {
+    "message" : "Z sieci:"
+  },
+  "i18n_from_local_file" : {
+    "message" : "Z dysku lokalnego:"
+  },
+  "i18n_enter_a_url" : {
+    "message" : "Wpisz adres URL do pliku .epub"
+  },
+  "i18n_unpacked_directory" : {
+    "message" : "Zdekompresowany katalog:"
+  },
+  "i18n_validate" : {
+    "message" : "Walidacja:"
+  },
+  "i18n_confirm_that_this_book" : {
+    "message" : "Potwierdź, że ta publikacja spełnia standardy ePub"
+  },
+  "i18n_single_pages" : {
+    "message" : "Pojedyńcze strony"
+  },
+  "i18n_double_pages" : {
+    "message" : "Podwójne strony"
+  },
+  "i18n_save_settings" : {
+    "message" : "Zapisz ustawienia"
+  },
+  "i18n_font_size" : {
+    "message" : "WIELKOŚĆ CZCIONKI"
+  },
+  "i18n_margins" : {
+    "message" : "MARGINESY"
+  },
+  "i18n_text_and_background_color" : {
+    "message" : "KOLOR TEKSTU I TŁA"
+  },
+  "i18n_black_and_white" : {
+    "message" : "Czano - Biały"
+  },
+  "i18n_arabian_nights" : {
+    "message" : "Arabskie noce"
+  },
+  "i18n_sands_of_dune" : {
+    "message" : "Piaski pustyni"
+  },
+  "i18n_ballard_blues" : {
+    "message" : "Ballard Blues"
+  },
+  "i18n_vancouver_mist" : {
+    "message" : "Mgliste Vanncouver"
+  },
+  "i18n_display_format" : {
+    "message" : "FORMAT WYŚWIETLANIA"
+  },
+  "i18n_html_readium_tm_a_project" : {
+    "message" : "Readium<sup>TM</sup>, projekt International Digital Publishing Forum (IDPF) oraz członków wspierających, jest udostępniony na licencji wolnego oprogramowania jako czytnik ePub&reg;.  Aby dowiedzieć się więcej wejdź na <a href=\"http://readium.org/\">stronę domową projektu</a>. Projekt jest rozwijany przez <a href=\"http://evidentpoint.com/\">Evident Point</a> oraz <a href=\"http://www.bluefirereader.com/\">Bluefire Productions</a>. Dołącz do nas na <a href=\"https://github.com/readium/readium\">reprezytorium GitHub</a>"
+  },
+  "chrome_accept_languages": {
+    "message": "$CHROME$ accepts $languages$ languages",
+    "placeholders": {
+      "chrome": {
+        "content": "Chrome",
+        "example": "Chrome"
+      },
+      "languages": {
+        "content": "$1",
+        "example": "en-US,ja,sr,de,zh_CN"
+      }
+    }
+  }
+}
